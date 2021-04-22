@@ -8,7 +8,7 @@ const Navbar = ({totalCounter}) =>{
   return ( 
   
   <nav className="navbar navbar-light bg-light">
-    <span className="navbar-brand mb-0 h1">Navbar Count:  
+    <span className="navbar-brand mb-0 h1">Navbar Count Edited:  
     <span className="badge badge-pill badge-secondary">{totalCounter}</span> </span>
   </nav>
   );
